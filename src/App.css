@@ -1,0 +1,16 @@
+h1 {
+  color: #c1f762;
+  font-family: Get Schwifty, Knewave, Yellowtail;
+}
+.jumbotron {
+  background-color: black;
+}
+body {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: black;
+}
+.error {
+  background-color: black;
+  align-self: center;
+}
